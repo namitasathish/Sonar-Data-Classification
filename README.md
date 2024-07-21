@@ -1,4 +1,4 @@
-# Sonar-Data-Classification
+# Sonar Data Classification
 
 This ML project builds a logistic regression model to classify signals recieved from sonar as either rocks or mines. The dataset consists of 60 features representing sonar signals and a target column indicating whether the signals represent rocks ('R') or mines ('M').
 
