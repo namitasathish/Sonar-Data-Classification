@@ -6,3 +6,6 @@ This ML project builds a logistic regression model to classify signals recieved 
 - Source: Sonar Data
 - Features: 60 numeric features representing sonar signal attributes
 - Target: 'R' for rocks, 'M' for mines
+
+## Setup
+- Clone the repository:
