@@ -13,3 +13,8 @@ This ML project builds a logistic regression model to classify signals recieved 
 git clone https://github.com/yourusername/sonar-classification.git
 cd sonar-classification
 ```
+- Install the required libraries:
+
+```bash
+pip install numpy pandas scikit-learn matplotlib seaborn
+```
