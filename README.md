@@ -9,3 +9,7 @@ This ML project builds a logistic regression model to classify signals recieved 
 
 ## Setup
 - Clone the repository:
+```bash
+git clone https://github.com/yourusername/sonar-classification.git
+cd sonar-classification
+```
